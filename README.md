@@ -1,8 +1,10 @@
 
 <p align="center" style="color:#00bbff; font-size:30px"> Здраствуйте, я - Дмитрий Сергеев, начинающий специалист по анализу и обработке данных.
 
-<a href="mailto:dmsergeev84@mail.ru">Задавайте вопросы по электронной почте</a>
 
+[<img align="center" alt="opa_oz | Telegram" width="22px" src="https://github.com/SDI84/SDI84/blob/b4c790300b211a08797a49b78268d46b3d05e3b1/Image/Telegram_2019_Logo.svg" />][Telegram]
+
+<a href="mailto:dmsergeev84@mail.ru">Задавайте вопросы по электронной почте</a>
 
 Собраны ссылки на реализованные проекты из [основного репозитория](https://github.com/SDI84/). Проекты выполнены в Jupyter Notebook(Python).
 
