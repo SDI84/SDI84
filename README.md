@@ -2,14 +2,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" width="80"/>
 
+</div>
 
-
-<p align="center" style="color:#00bbff; font-size:30px"> <span style="color:#00bbff; font-size:30px"> Здраствуйте, я - Дмитрий Сергеев, начинающий специалист по анализу и обработке данных.</span> </p>
+## <p align="center" style="color:#00bbff">  Здраствуйте, я - Дмитрий Сергеев, начинающий специалист по анализу и обработке данных. </p>
 
 <p align="center">
 <a href="https://t.me/SDI84"><img align="center" alt="SDI84 | Telegram" width="30px" src="https://github.com/SDI84/SDI84/blob/b4c790300b211a08797a49b78268d46b3d05e3b1/Image/Telegram_2019_Logo.svg"></a> <a href="mailto:dmsergeev84@mail.ru"><img align="center" alt="SDI84 | Mail.ru" width="30px" src="https://github.com/SDI84/SDI84/blob/173893d2043a942710e040741483a3935a42a0ed/Image/Mail.Ru_Logo_2018.svg"></a>
 </p>
-</div>
+
 
 ### :man_scientist: <span style="color:#00bbff">  Обо мне: </span>
 --- в поисках работы;  
