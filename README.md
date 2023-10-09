@@ -11,10 +11,10 @@
 
 
 ### :man_scientist: <span style="color:#00bbff">  Обо мне: </span>
---- в поисках работы;  
---- закончил курс по <a href="https://disk.yandex.ru/i/hOv1vdMEeKio-w"> Data Science </a>  и <a href="https://disk.yandex.ru/i/Vp0WBarj-C_qvg"> Data-аналитике </a> ;   
---- т.к. закончил техническтй вуз давно, прохожу математические курсы и решаю задачи на stepik.org;  
---- В свободное время решаю задачи на <a href="https://www.codewars.com/users/SDI84"> Codewars </a>  
+- в поисках работы;  
+- закончил курс по <a href="https://disk.yandex.ru/i/hOv1vdMEeKio-w"> Data Science </a>  и <a href="https://disk.yandex.ru/i/Vp0WBarj-C_qvg"> Data-аналитике </a> ;   
+- т.к. закончил техническтй вуз давно, прохожу математические курсы и решаю задачи на stepik.org;  
+- в свободное время решаю задачи на <a href="https://www.codewars.com/users/SDI84"> Codewars </a>  
 
 
 
