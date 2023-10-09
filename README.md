@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BDSncqgMtH3DcDiVwd/giphy.gif" width="80"/>
-
-</div>
+  <img src="https://media.giphy.com/media/unSNH4zXh1m7q9TbOR/giphy.gif" width="120"/>
+</div>  
 
 ## <p align="center" style="color:#00bbff">  Здраствуйте, я - Дмитрий Сергеев, начинающий специалист по анализу и обработке данных. </p>
 
