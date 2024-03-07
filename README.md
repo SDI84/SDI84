@@ -24,10 +24,10 @@ Python, PostgreSQL, Pandas, Scikit-learn, Scipy, Mathplotlib, Numpy, Requests, C
 
 ### :technologist: <span style="color:#00bbff">  Выполненные проекты (Портфолио):</span>
 #### <span style="color:#00bbff">  Хакатоны, Pet-проекты:</span>  
-| № |  Проект|Занятое место(рейтинг)|Репозиторий| Основные этапы выполнения работы  |Используемые инструменты  |  
-|--|--|--|---|-------|---|  
-|1.|[Рекомендательная модель на основе данных о товарах Хакатон от Prosept и Яндекс.Мастерская](https://github.com/SDI84/Prosept)| 1 место|[Prosept](https://github.com/SDI84/Prosept)|- анализ и очистка данных;<br /> - получение вектора текста и нахождение похожего с помощью косинусного сходства;<br/> - написание функции обработки для встраивание в backend. |pandas; matplotlib; seaborn; numpy; scikit-learn; pytorch; TF-IDF; LaBSE; cosine similarity.|
-|2.|[Предсказание продуктивности на основе контрольных данных AgroCode Data Science Cup 2023](https://github.com/SDI84/Agrocode_data_science2023-SDI84-)| 25 место в рейтинге|[Agrocode_data_science 2023-SDI84-](https://github.com/SDI84/Agrocode_data_science2023-SDI84-)|-анализ данных;<br /> - создание модели предсказания ее кеширование;<br /> -создание пайплайна для проверки модели;<br /> -сборка и проверка модели в GitLab.|pandas; numpy; lightgbm; optuna; pickele; gitlab; docker.|
+| № |  Проект|Занятое место (рейтинг)|Репозиторий| Основные этапы выполнения работы  |Используемые инструменты  |  
+|--|--|--|--|-------|---|  
+|1.|[Рекомендательная<br/> модель Хакатон от Prosept и Яндекс.Мастерская](https://github.com/SDI84/Prosept)| 1 место|[Prosept](https://github.com/SDI84/Prosept)|- анализ и очистка данных;<br /> - получение вектора текста и нахождение похожего с помощью косинусного сходства;<br/> - написание функции обработки для встраивание в backend. |pandas; matplotlib; seaborn; numpy; scikit-learn; pytorch; TF-IDF; LaBSE; cosine similarity.|
+|2.|[Предсказание продуктивности <br/> AgroCode Data Science Cup 2023](https://github.com/SDI84/Agrocode_data_science2023-SDI84-)| 25 место|[Agrocode data science 2023 -SDI84-](https://github.com/SDI84/Agrocode_data_science2023-SDI84-)|-анализ данных;<br /> - создание модели предсказания ее кеширование;<br /> -создание пайплайна для проверки модели;<br /> -сборка и проверка модели в GitLab.|pandas; numpy; lightgbm; optuna; pickele; gitlab; docker.|
 
 
 #### <span style="color:#00bbff">  Учебные проекты:</span>
